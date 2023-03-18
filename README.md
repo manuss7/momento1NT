@@ -20,5 +20,5 @@ proyecto usando listas,condicionales,ciclos con Python
  
 `reinacersei.py`
   
-`listas.py`
+`multiplos.py`
 
